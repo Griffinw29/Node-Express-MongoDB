@@ -1,0 +1,1 @@
+<p>I am developing this app to showcase how to implement a basic MongoDB structure using Express middleware. This app will show case user, and admin authentication as well as proper routing and use of collections.</p>
