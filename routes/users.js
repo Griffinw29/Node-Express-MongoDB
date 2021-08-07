@@ -4,7 +4,6 @@ const passport = require("passport");
 const router = express.Router();
 const authenticate = require("../authenticate");
 
-/* GET users listing. */
 router.get(
   "/",
   authenticate.verifyUser,
